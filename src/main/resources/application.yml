@@ -1,0 +1,9 @@
+gnss:
+  rtcm3:
+    - name: 测试
+      host: localhost
+      port: 20001
+  nmea:
+    - name: 测试
+      host: localhost
+      port: 12102
